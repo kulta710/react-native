@@ -1,4 +1,4 @@
-![image](https://github.com/kulta710/react-native/assets/108053454/aadfe2e1-ddd3-4388-9b7c-96e511ed0a6a)# react-native
+# react-native
 Practice project for React Native
 
 Windows 환경 변수 설정
